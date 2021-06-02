@@ -1,8 +1,8 @@
 {
-	"prefix": "$",
-	"set_channel":"setc",
-	"set_line":"setl",
-	"resetc":"reset",
-	"previewc":"pre",
+	"prefix": "",
+	"set_channel":"",
+	"set_line":"",
+	"resetc":"",
+	"previewc":"",
 	"specialrole":"حط ايدي الرتبة مش الاسم"
 }
