@@ -12,7 +12,7 @@ const db = require('quick.db');
 
 const {prefix, set_channel, set_line, resetc, previewc} = require('./config');
 
-const token = 'ODUwMzkyMTM1OTk1MjI4MTcw.YLpDZA.Ps9l8cbLTgVDy-mbmACZr2iExoU';
+const token = '';
 //process.env.token
 
 
