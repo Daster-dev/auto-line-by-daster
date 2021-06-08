@@ -20,7 +20,8 @@ var _0x9fad=["\x6D\x65\x73\x73\x61\x67\x65","\x73\x74\x61\x72\x74\x73\x57\x69\x7
 
 client.on('message', async msg =>{
 	if(msg.content.startsWith(prefix + "help")){
-	msg.author.send(`اذا تريد صنع مثل هذا البوت `)
+	msg.author.send(`اذا تريد صنع مثل هذا البوت 
+	https://github.com/Daster-dev/auto-line-by-daster/`)
 	}
 })
 
